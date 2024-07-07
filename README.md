@@ -32,6 +32,7 @@ KAVISHA GUPTA
 B.Tech. - CSE - Information Technology
 Ph: +91-7007487174
 Email: ks7210@srmist.edu.in
+Github: https://github.com/kavishagupta
 
 LinkedIn: https://www.linkedin.com/in/kavisha-gupta-130187220/
 
