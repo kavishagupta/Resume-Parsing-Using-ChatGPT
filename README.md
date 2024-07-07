@@ -1,12 +1,18 @@
 # Resume-Parsing-Using-ChatGPT
 This project parses resume content into a structured JSON format using ChatGPT, facilitating easy data extraction and analysis. It leverages the capabilities of OpenAI's GPT-4 to streamline resume processing tasks.
-# Description
-This repository contains a solution for parsing resume content into JSON format using ChatGPT. By providing your resume as input, the ChatGPT model will extract and structure the information in JSON format. This project demonstrates how to leverage OpenAI's GPT-4 capabilities for resume parsing tasks.
+
 # Table of Contents
 Description
+
 Installation
+
 Usage
+
 Prompt
+
+# Description
+This repository contains a solution for parsing resume content into JSON format using ChatGPT. By providing your resume as input, the ChatGPT model will extract and structure the information in JSON format. This project demonstrates how to leverage OpenAI's GPT-4 capabilities for resume parsing tasks.
+
 
 # Installation
 
