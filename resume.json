@@ -1,0 +1,156 @@
+{
+  "name": "Kavisha Gupta",
+  "contact_information": {
+    "phone": "+91-7007487174",
+    "email": "ks7210@srmist.edu.in",
+    "github": "https://github.com/kavishagupta",
+    "linkedin": "https://www.linkedin.com/in/kavisha-gupta-130187220/"
+  },
+  "skills": [
+    "C",
+    "C++",
+    "SQL",
+    "HTML",
+    "CSS",
+    "Pandas",
+    "NumPy",
+    "Excel",
+    "Python"
+  ],
+  "brief_summary": "Diligent college student looking for opportunities, developing a positive outlook, and a variety of strong skills.",
+  "education": [
+    {
+      "institution": "SRM Institute of Science & Technology, Kattankulathur",
+      "degree": "B.Tech. - CSE - Information Technology",
+      "duration": "2021 - 2025",
+      "cgpa": "8.83 / 10"
+    },
+    {
+      "institution": "Cathedral Sr. Sec. School",
+      "level": "12th",
+      "board": "CBSE",
+      "year": "2021",
+      "percentage": "75.60 / 100"
+    },
+    {
+      "institution": "Cathedral Sr. Sec. School",
+      "level": "10th",
+      "board": "CBSE",
+      "year": "2019",
+      "percentage": "84.40 / 100"
+    }
+  ],
+  "internships": [
+    {
+      "company": "PWC",
+      "position": "Analytics Insight Launchpad Program",
+      "duration": "15 Feb, 2024 - Present",
+      "description": [
+        "Launched a career in data & analytics through PwC's intensive training program (IT Fundamentals, RDBMS, Programming Fundamentals, Data Engineering)."
+      ]
+    },
+    {
+      "company": "AICTE",
+      "position": "Data Engineer, AICTE & Ministry of Housing and Urban Affairs",
+      "duration": "01 Sep, 2023 - 30 Nov, 2023",
+      "description": [
+        "Built transforming data for analysis (Python).",
+        "Gained experience cleaning data sets to prepare them for integration into larger datasets."
+      ]
+    },
+    {
+      "company": "The Sparks Foundation",
+      "position": "Data Science and Business Analytics",
+      "duration": "01 Aug, 2023 - 01 Sep, 2023",
+      "description": [
+        "Translated complex data into clear visuals and reports using data visualization tools (e.g., Power BI) to inform strategic initiatives."
+      ]
+    },
+    {
+      "company": "Bharat Intern",
+      "position": "Web Development",
+      "duration": "01 Apr, 2023 - 01 May, 2023",
+      "description": [
+        "Made the user experience (UX) and visuals you see online (HTML, CSS, JavaScript).",
+        "Created the behind-the-scenes functionality (Python) that makes websites work."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fake News Detection",
+      "mentor": "Mrs. Helen Victoria",
+      "team_size": 3,
+      "key_skills": ["Python", "Pandas", "NumPy", "Jupyter Notebook"],
+      "project_link": "https://github.com/kavishagupta/AI-PROJECT",
+      "description": "The project leverages Python for data preprocessing, feature extraction, and machine learning model training to classify news as fake or real.",
+      "duration": "08 Mar, 2024 - 15 May, 2024"
+    },
+    {
+      "name": "Weather Forecast",
+      "mentor": "Mr. L.N.B. Srinivas",
+      "team_size": 2,
+      "key_skills": ["HTML", "CSS", "JavaScript"],
+      "project_link": "https://github.com/kavishagupta/Weather-Forecast",
+      "description": "I used HTML, CSS, and JavaScript for the weather forecasting webpage (frontend).",
+      "duration": "05 Mar, 2023 - 01 May, 2023"
+    }
+  ],
+  "assessments_certifications": [
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "description": "Strengthened programming skills through a foundational course in Python."
+    },
+    {
+      "name": "Enterprise Design Thinking Co-Creator Badge",
+      "description": "Gained expertise in collaborative design thinking methodologies through IBM."
+    },
+    {
+      "name": "IBM Storage and Cloud",
+      "description": "Expanded knowledge of cloud storage and infrastructure solutions with IBM training."
+    },
+    {
+      "name": "Enterprise Design Thinking Practitioner Badge",
+      "description": "Developed design thinking skills to approach complex problems with an innovative mindset through IBM."
+    },
+    {
+      "name": "The Bits and Bytes of Computer Networking",
+      "description": "Built a foundation in computer network fundamentals through Google's online course."
+    },
+    {
+      "name": "Networking Basics",
+      "description": "Enhanced understanding of computer network fundamentals with CISCO."
+    },
+    {
+      "name": "AWS Academy Graduate - AWS Academy Data Engineering",
+      "description": "Gained proficiency in data engineering on AWS through comprehensive training provided by AWS Academy Graduate."
+    }
+  ],
+  "seminars_trainings_workshops": [
+    {
+      "name": "AWS Cloud Workshop",
+      "institute": "Cherry+ Network",
+      "key_skills": ["Cloud Management"],
+      "description": "Gained hands-on experience with cloud computing fundamentals through an AWS Cloud workshop."
+    },
+    {
+      "name": "Figma Workshop",
+      "institute": "GitHub SRM",
+      "key_skills": ["Figma"],
+      "description": "Expanded design skills by participating in a Figma workshop hosted by GitHub SRM. Also created an animated web page layout with the skills learned during the workshop."
+    }
+  ],
+  "extra_curricular_activities": [
+    {
+      "activity": "Hackathon",
+      "role": "HacktheBox - UI/UX Designer"
+    },
+    {
+      "activity": "NSCC",
+      "role": "Coordinator"
+    }
+  ],
+  "web_links": {
+    "github": "https://github.com/kavishagupta"
+  }
+}
